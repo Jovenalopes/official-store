@@ -1,0 +1,3 @@
+git add wrangler.toml
+git commit -m "Adiciona configuração do wrangler para Cloudflare"
+git push
